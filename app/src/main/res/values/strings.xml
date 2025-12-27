@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CofeeShop</string>
+    <string name="drink_coffee_nfeel_good">Drink Coffee\nFeel Good</string>
+    <string name="get_started">За чашечкой кофе</string>
+    <string name="search_anything">Найди свой любимый кофе...</string>
+    <string name="popular_coffee">Популярные напитки</string>
+    <string name="cart">Корзина</string>
+    <string name="explorer">Меню</string>
+    <string name="wishlist">Избранное</string>
+    <string name="profile">Аккаунт</string>
+    <string name="enter_your_discount">Введите промокод...</string>
+    <string name="apply">OK</string>
+</resources>
